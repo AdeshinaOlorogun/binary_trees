@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-
 /**
  * struct node_s - singly linked list
  * @node: const binary tree node

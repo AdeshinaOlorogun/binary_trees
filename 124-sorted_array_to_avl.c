@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-
 /**
  * create_tree - creates an AVL tree with recursion
  *
